@@ -1,3 +1,9 @@
+分库分表：案例
+
+sharding-jdbc,说明及使用
+https://www.cnblogs.com/warehouse/p/10787601.html
+
+
 # sharding-jdbc 目录结构
 
 sjdbc-read-write-springboot：Spring Boot版 Sharding JDBC 读写分离示列
